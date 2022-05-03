@@ -5,4 +5,4 @@ The scripts were used to configure cloud servers with different docker container
 
 End Product: 4 servers running vulnerable DVWA containers along with a jump box and a server running an ELK stack container.
 
-https://app.diagrams.net/#G1pnqh6TCgdDnStpTQhpL-gkFzDC3qdqVG
+![](diagrams/https://app.diagrams.net/#G1pnqh6TCgdDnStpTQhpL-gkFzDC3qdqVG)
