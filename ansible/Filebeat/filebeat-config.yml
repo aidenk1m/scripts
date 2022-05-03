@@ -1,4 +1,10 @@
+
+# IPv6 addresses should always be defined as: https://[2001:db8::1]:9200
+hosts: ["10.1.0.4:9200"]
+username: "elastic" 
+password: "changeme"
+
 # This requires a Kibana endpoint configuration.
 setup.kibana:
-  host: "10.1.0.4:5601"
+host: "10.1.0.4:5601"
 
