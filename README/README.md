@@ -2,13 +2,13 @@
 
 The files in this repository were used to configure the network depicted below. 
 
-![](Images/ELK-Project Final Draft.jpg)
+![ELK-Project](https://github.com/aidenk1m/scripts/blob/main/diagrams/ELK-Project%20Final%20Draft.jpg)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _____ file may be used to install only certain pieces of it, such as Filebeat.
 
   - _TODO: Enter the playbook file._
 
-    scripts/ansible/filebeat/filebeat-playbook-yml_script
+    [filebeat-playbook](https://github.com/aidenk1m/scripts/blob/main/ansible/Filebeat/filebeat-playbook-yml_script)
 
 This document contains the following details:
 - Description of the Topology
